@@ -10,3 +10,5 @@
 
 
 - [Dirichlet processes](https://www.youtube.com/watch?v=DCnTNu_0lzc)
+
+- [PATTERNS, PREDICTIONS, AND ACTIONS: A story about machine learning](https://mlstory.org/pdf/patterns.pdf)
