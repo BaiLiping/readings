@@ -8,3 +8,5 @@
 
 - [The relationship between Lyanpunov function and reachability](http://underactuated.mit.edu/lyapunov.html)
 
+
+- [Dirichlet processes](https://www.youtube.com/watch?v=DCnTNu_0lzc)
